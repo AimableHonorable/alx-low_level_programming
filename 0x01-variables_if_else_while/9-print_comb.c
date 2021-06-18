@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
-* main - Print all decimals less than 10
-* startingfrom zero and use putchar
+* main - Print all decimals less than 10 combinations
 * Return: should return zero when successful
 */
 int main(void)
