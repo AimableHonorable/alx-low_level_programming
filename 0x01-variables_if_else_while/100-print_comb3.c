@@ -11,7 +11,8 @@ int j;
 
 for (i = 48; i < 57; i++)
 {
-for (j = 0; j < 58; j++) {
+for (j = 0; j < 58; j++)
+{
 if (j > i)
 {
 putchar(i);
