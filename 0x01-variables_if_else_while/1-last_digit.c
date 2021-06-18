@@ -6,7 +6,7 @@
  * main - Function to print the last digit
  * tell whether it is greater than five,
  * or less than six, or zero
- * Rwturn: should return zero when true.
+ * Return: should return zero when true.
 */
 int main(void)
 {
@@ -23,8 +23,7 @@ int main(void)
 		printf("Last digit of %d is %d and is 0\n", n, last);
 	} else if (last < 6)
 	{
-		printf("Last digi of %d is %d and is less than 6\n", n, last);
+		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, last);
 	}
 	return (0);
 }
-
