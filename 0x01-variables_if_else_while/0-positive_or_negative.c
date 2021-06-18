@@ -4,11 +4,12 @@
 /**
  * main - function to tell whether number
  * is negative or positive or zero
- * Return: must return zero when successful 
+ * Return: must return zero when successful
 */
 int main(void)
 {
 	int n;
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if (n < 0)
