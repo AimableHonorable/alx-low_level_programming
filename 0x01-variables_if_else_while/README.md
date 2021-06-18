@@ -11,3 +11,4 @@
 * Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.
 * Write a program that prints all possible combinations of single-digit numbers. Numbers must be separated by ,, followed by a space
 * a program that prints all possible different combinations of two digits. Numbers must be separated by ,, followed by a space. The two digits must be different
+* a program that prints all possible different combinations of three digits. Numbers must be separated by ,, followed by a space. The two digits must be different
