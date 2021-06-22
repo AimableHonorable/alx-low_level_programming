@@ -7,4 +7,5 @@
 * function that checks for alphabetic character.
 *  a function that prints the sign of a number.
 * function to print absolute value of a number
+* function to print the last digit of a number
 
