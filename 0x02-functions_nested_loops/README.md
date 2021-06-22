@@ -11,3 +11,5 @@
 * prints every minute of the day of Jack Bauer
 * function that prints the 9 times table, starting with 0.
 * function to add two integers and return the sum of both
+* function that prints all natural numbers from n to 98, followed by a new line.
+
