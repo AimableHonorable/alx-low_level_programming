@@ -9,4 +9,5 @@
 * function to print absolute value of a number
 * function to print the last digit of a number
 * prints every minute of the day of Jack Bauer
+* function that prints the 9 times table, starting with 0.
 
