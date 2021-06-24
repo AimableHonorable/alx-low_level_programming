@@ -2,16 +2,14 @@
 
 /**
  * more_numbers - function to print ten lines of
- * numbers from 0 to 9
- * Return: should return 0 on success
+ * numbers from 0 to 14 followed by a new line
  */
 
 void more_numbers(void)
 {
-	int i;
-	int j;
+	int i, j;
 
-	for (i = 0; i <= 10; i++)
+	for (i = 0; i < 10; i++)
 	{
 		for (j = 0; j < 15; j++)
 		{
