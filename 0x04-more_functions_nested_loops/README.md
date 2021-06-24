@@ -8,4 +8,4 @@
 * Program to print a straight line
 * Program to print diagonal line to the terminal
 * Program to print square to the terminal
-
+* Program that prints the numbers from 1 to 100, followed by a new line. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz
