@@ -7,4 +7,5 @@
 * Program to print ten lines of numbers from 0 10 14
 * Program to print a straight line
 * Program to print diagonal line to the terminal
+* Program to print square to the terminal
 
